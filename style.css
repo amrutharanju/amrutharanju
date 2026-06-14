@@ -130,12 +130,8 @@ body {
     margin-bottom: 12px;
 }
 
-.timeline-card ul {
-    margin-left: 20px;
-}
-
-.timeline-card li {
-    margin-bottom: 8px;
+.timeline-card p {
+    margin-top: 12px;
 }
 
 /* Projects */

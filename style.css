@@ -38,7 +38,7 @@ body {
 }
 
 .hero p {
-    max-width: 800px;
+    max-width: 850px;
     margin: auto;
     font-size: 17px;
     color: #e5e7eb;
@@ -134,6 +134,10 @@ body {
     margin-left: 20px;
 }
 
+.timeline-card li {
+    margin-bottom: 8px;
+}
+
 /* Projects */
 .projects-grid {
     display: grid;
@@ -213,5 +217,11 @@ footer {
 
     .section-title {
         font-size: 25px;
+    }
+
+    .timeline-card,
+    .project-card,
+    .education-card {
+        padding: 18px;
     }
 }
